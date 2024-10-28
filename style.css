@@ -1,13 +1,14 @@
 body{
     background-color: antiquewhite;
     color: black;
+
+  margin: 0px;
 }
+
 
 header{
 
-border-bottom: solid 2px cyan; 
-
-
+border-bottom: solid 2px cyan;  
 
 }
  
